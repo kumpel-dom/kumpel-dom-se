@@ -36,19 +36,11 @@ Haverá dois tipos de documentos _json_, o primeiro será utilizado para iniciar
 
  * **type**: Tipos disponíveis para cada ação. Valor aceito:
    - Strings com os seguintes valores:
-<<<<<<< HEAD
       - light
       - door
       - camera
       - plug
       - air
-=======
-    - light
-    - door
-    - camera
-    - plug
-    - air
->>>>>>> 9d18dae5f3d4d79d17ae131111325539ba80d94c
 
 
  * **do**: Ação propiamente dita, será utlilizado apenas quando uma ação for aplicado. Valor aceito:
