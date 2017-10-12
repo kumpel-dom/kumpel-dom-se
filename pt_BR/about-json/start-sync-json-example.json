@@ -1,0 +1,28 @@
+{
+  "node":[
+    {
+    "nodeid": "identificação do nó, tipo inteiro",
+    "nodename": "nome mostrado para o usuário",
+    "area":[
+      {
+        "areaid": "identificação da area, tipo inteiro",
+        "areaname": "nome ... usuário",
+        "actions":[
+          {
+            "actionid": "identificação da ação, tipo inteiro",
+            "actionname": "nome da ação",
+            "type": "tipo da ação",
+            "do": "ação desejada"
+          },
+          {
+            "actionid": 3,
+            "actionname": "luz da sala",
+            "type": "light",
+            "do": "on"
+          }
+        ]
+      }
+    ]
+    }
+  ]
+}
